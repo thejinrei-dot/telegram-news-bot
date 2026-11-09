@@ -1,0 +1,47 @@
+{
+  "rss_sources": [
+    {
+      "name": "Foreign Affairs",
+      "category": "سیاست و روابط بین‌الملل",
+      "url": "https://www.foreignaffairs.com/rss.xml"
+    },
+    {
+      "name": "WSJ World",
+      "category": "اخبار جهان",
+      "url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews"
+    },
+    {
+      "name": "WSJ Markets",
+      "category": "اقتصاد و بازارهای مالی",
+      "url": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain"
+    },
+    {
+      "name": "WSJ Technology",
+      "category": "تکنولوژی و هوش مصنوعی",
+      "url": "https://feeds.content.dowjones.io/public/rss/RSSWSJD"
+    },
+    {
+      "name": "WSJ Politics",
+      "category": "سیاست",
+      "url": "https://feeds.content.dowjones.io/public/rss/socialpoliticsfeed"
+    },
+    {
+      "name": "WSJ Economy",
+      "category": "اقتصاد و بازارهای مالی",
+      "url": "https://feeds.content.dowjones.io/public/rss/socialeconomyfeed"
+    },
+    {
+      "name": "Fars News (via Google News RSS)",
+      "category": "سیاست و اخبار ایران",
+      "url": "https://news.google.com/rss/search?q=site%3Afarsnews.ir+when%3A2d&hl=fa&gl=IR&ceid=IR%3Afa"
+    }
+  ],
+  "html_sources": [
+    {
+      "name": "میدل ایست نیوز",
+      "category": "اخبار خاورمیانه",
+      "homepage": "https://mdeast.news/",
+      "max_articles_to_check": 25
+    }
+  ]
+}
